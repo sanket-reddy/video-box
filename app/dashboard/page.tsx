@@ -1,6 +1,5 @@
 import Navbar from "@/components/shared/navbar";
-import { auth, currentUser } from "@clerk/nextjs";
-import { User } from "@clerk/nextjs/server";
+import { currentUser } from "@clerk/nextjs";
 export default async function Page() {
   const user = await currentUser();
   return (

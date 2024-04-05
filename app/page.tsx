@@ -23,7 +23,7 @@ export default function Home() {
             Video Box is a dynamic application designed to revolutionize the way
             users share and view video content. Emphasizing ease of use, social
             connectivity, and a rich viewing experience, Video Box stands out in
-            the crowded space of video sharing platforms. Here’s a breakdown of
+            the crowded space of video sharing platforms. Here is a breakdown of
             its core features and functionalities:
           </p>
           <br></br>
@@ -33,17 +33,17 @@ export default function Home() {
             platforms is a breeze. It integrates social media functionalities,
             allowing for easy sharing and commenting on videos, facilitating a
             community of engaged viewers.
-          </p>          <br></br>
+          </p>{" "}
+          <br></br>
           <br></br>
           <p>
             VideoBox also provides robust privacy controls, allowing users to
-            decide who can view their videos. Whether you're sharing personal
+            decide who can view their videos. Whether you are sharing personal
             moments with family or broadcasting to a wider audience, you have
-            complete control over your content's privacy.
+            complete control over your contents privacy.
           </p>
           <br></br>
           <br></br>
-
           <Link
             className="bg-purple-800 rounded-lg text-white font-bold p-5 w-1/5 flex hover:bg-purple-950 justify-center"
             href="dashboard"
